@@ -4,7 +4,8 @@ My research interests include Geodesy, Remote Sensing, Seismic imaging, Geotherm
 Additionally, I love producing songs. My favorite genres include classics, Hip-Hop, and Pop music. You can check them out on streaming.
 
 # 💻 Reach Me Out 
-Email: al7777al4@gmail.com
+Email: hmhuang@earth.sinica.edu.tw
+
 
 
 
