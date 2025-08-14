@@ -1,10 +1,9 @@
 # 🦮 About Me 
-Currently, I work as a research assistant in Academia Sinica, Taiwan with Hsin-Hua Huang. 
+I am PhD student at CU Boulder with Prof. Kathryn Materna. 
 My research interests include Geodesy, Remote Sensing, Seismic imaging, Geothermics, and Machine Learning.
-Additionally, I love producing songs. My favorite genres include classics, Hip-Hop, and Pop music. You can check them out on streaming.
 
 # 💻 Reach Me Out 
-Email: hmhuang@earth.sinica.edu.tw
+Email: hong-mao.huang@colorado.edu
 
 
 
